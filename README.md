@@ -1,4 +1,7 @@
 # Welcome to your NumEconCPH repository
+
+This is the repository for the zuca-tugas group.
+
 In this folders you will see:
 
 Data Analysis Project where we analysed the unemployment in Denmark
